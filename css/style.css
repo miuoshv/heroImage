@@ -36,7 +36,7 @@ body {
 	font-size: 25px;
 	color: #ddd;
 	text-transform: uppercase;
-	transition: font-size 1.5ss 1s;
+	transition: font-size 1.5s 1s;
 }
 
 .hero-container:hover .hero-text {
